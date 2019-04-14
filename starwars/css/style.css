@@ -1,0 +1,60 @@
+
+ body{
+    background-image: url("/home/narmin/Documents/starwars/img/SWE12_10836_CoverBackgroundShadowport_MattBradbury-1-2400x1200-496960677532.jpg");
+   
+    
+}
+h1.one{
+    padding-left: 1254px;
+    /* background-image: url("img/Screenshot from 2019-04-12 19-12-17.png"); */
+  
+}
+img{
+    background: white;
+    padding: 24px;
+    border:3px solid green;
+}
+p.power{
+    display: inline;
+    position: relative;
+    right: 107px;
+    top: 119px;
+    /* left: -110px; */
+    /* bottom: -5px; */
+}
+p.second{
+    display: inline;
+    position: relative;
+    right: 118px;
+    bottom: 9px;
+}
+p.third{
+    display: inline;
+    position: relative;
+    right: 118px;
+    bottom: 9px;
+}
+p.fourth{
+    display: inline;
+    position: relative;
+    right: 118px;
+    bottom: 9px;
+}
+.enemies img{
+    background: red;
+    border:3px solid black;
+}
+.fight img{
+    background: black;
+    border:3px solid green;
+}
+.fight p{
+    color: white;
+}
+p.name{
+    /* display: inline; */
+   position: relative;
+    right: 182px;
+    bottom: 9px;
+    height: 18px;
+}
