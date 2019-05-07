@@ -10,7 +10,7 @@ $(document).ready(function(){
     //     var a=Number($(this).attr("alt"));
     //     $('#Mymodal').modal('show')
         $.ajax({
-                    url: "http://www.mocky.io/v2/5cd169653300005a6ab12995",
+                    url: "https://fake.munisisazade.com/v1/5cd1a295fd1d61e440b4cb04",
                     method: "GET",
                     contentType: "application/json",
                     
