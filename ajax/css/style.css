@@ -1,0 +1,73 @@
+.form-control{
+    
+    margin-left: 163px;
+    padding: 6px 181px;
+}
+h5{
+   font-weight: 0!important;
+}
+ 
+.btn{
+    background-color: black;
+    color: white;
+}
+/* @font-face{
+    font-family: Lobster;
+    src: url(/home/narmin/Documents/shopping/Lobster_1_4.otf);
+ }
+ @font-face{
+    font-family: Bebas;
+    src: url(/home/narmin/Documents/shopping/BebasNeue-Regular.ttf);
+ } */
+ .navbar-brand{
+    font-size: 32px;
+    /* font-family: Bebas; */
+
+ }
+ .navbar{
+    /* margin-bottom: 93px; */
+ }
+ .navbar-right{
+    margin-left: 212px;
+    float: left !important;
+ }
+ .active{
+    margin-left: 38px;
+    font-size: 24px;
+    /* font-family: Bebas; */
+ }
+ .bebas{
+    margin-left: 34px;
+    font-size: 24px;
+    /* font-family: Bebas; */
+ }
+ body{
+     background-color: #e6e2e2;
+ }
+ .container{
+    width: 1377px;
+    margin-left: 314px;
+}
+img{
+   margin-top: 72px;
+   width: 292px;
+   height: 430px;
+   transition: transform .2s; /* Animation */
+
+}
+.rowfirst{
+   margin-top: 60px;
+}
+
+ /* img:hover {
+   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+ footer{
+    margin-top: 28px;
+    background-color: #212121;
+    padding: 24px;
+ }
+ footer p{
+    margin: 0;
+   margin-left: 722px;
+
+ }
